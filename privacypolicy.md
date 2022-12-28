@@ -47,7 +47,7 @@
 <p>2. Data created during use of our services. This includes:</p>
 <ul> 
   <li><p><b>Location data</b> (delivery person): We collect precise or approximate location data from delivery persons’ mobile devices when the ABCDelivery app is running in the foreground (app open and on-screen) or background (app open but not on-screen).</p></li>
-<li><p>Location data (vendorss and order recipients). We collect precise or approximate location information from vendors’ and order recipients’ mobile devices if they enable us to do so via their device settings.</p></li>
+<li><p><b>Location data</b> (vendors and order recipients). We collect precise or approximate location information from vendors’ and order recipients’ mobile devices if they enable us to do so via their device settings.</p></li>
 </ul>
 <p>ABCDelivery collects such data from the time a ride or order is requested until it is finished, and any time the app is running in the foreground (app open and on-screen). See “Choice and transparency” below for information on how vendors and order recipients can enable precise location data collection.</p>
 <p>Vendors and order recipients may use the ABCDelivery apps without enabling collection of location data from their mobile devices. However, this may affect certain features in the ABCDelivery apps. For example, a vendors who has not enabled precise location data will have to manually enter their pickup address.</p>
